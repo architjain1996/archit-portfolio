@@ -173,7 +173,8 @@ hr {
   padding: 4rem 1rem;
   text-align: center;
   color: white;
-  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 2rem;
+  border-top-left-radius: 2rem;
 }
 
 .footer .link {
